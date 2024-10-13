@@ -1,5 +1,6 @@
 from project import convertirCoord, Bloque
 
+
 ALTURA_TABLERO = 9
 ANCHO_TABLERO = 9
 BOMBAS = 10
